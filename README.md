@@ -27,9 +27,11 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=mthms&style=flat-square&color=blue" width="100" alt=""/>
 </div>
 
-<h1 id="welcome_section" align="center">
+<div id="welcome_section" align="center">
+<h1>
+  Hi, My name is Mohamed Sharaf!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt=""/>
-  Hi there
 </h1>
+</div>
 
 
