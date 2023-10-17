@@ -43,6 +43,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mthms&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<br />
+
+<a href="https://github.com/mthms">
+  <img alt="Mohamed Sharaf's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mthms&custom_title=Mohamed%20Sharaf%27s%20Contribution%20Graph&theme=react-dark" />
+</a>
+
 ---
 
 ### :trophy: Git profile Trophies
