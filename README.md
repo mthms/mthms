@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 </div>
 
 <div id="welcome_section" align="center">
-  <h1>Hi there</h1>
+  Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt=""/>
 </div>
 
