@@ -29,8 +29,12 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
 <div id="profile_counter" align="center">
-<img src="https://komarev.com/ghpvc/?username=mthms&style=flat-square&color=blue" width="100" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=mthms&style=flat-square&color=blue" width="100" alt=""/>
 </div>
 
+<div id="header_animation_banner" align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
