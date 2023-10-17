@@ -14,12 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div id="welcome_section" align="center">
-  <h1 style="display: inline-block; vertical-align: middle;">
-    Hi, My name is Mohamed Sharaf!
-  </h1>
-</div>
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -32,6 +26,12 @@ Here are some ideas to get you started:
 
 <div id="profile_counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=mthms&style=flat-square&color=blue" width="100" alt=""/>
+</div>
+
+<div id="welcome_section" align="center">
+  <h1 style="display: inline-block; vertical-align: middle;">
+    Hi, My name is Mohamed Sharaf!
+  </h1>
 </div>
 
 <div id="header_animation_banner" align="center">
