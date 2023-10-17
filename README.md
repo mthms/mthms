@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <div id="welcome_section" align="center">
   <h1 style="display: inline-block; vertical-align: middle;">
-    Hi 👋, My name is Mohamed Sharaf!
+    Hi, My name is Mohamed Sharaf!
   </h1>
 </div>
 
