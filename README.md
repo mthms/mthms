@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div id="welcome_section" align="center">
+  <h1>
+    Hi, My name is Mohamed Sharaf!
+  </h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" alt=""/>
+</div>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -25,13 +32,6 @@ Here are some ideas to get you started:
 </div>
 <div id="profile_counter" align="center">
 <img src="https://komarev.com/ghpvc/?username=mthms&style=flat-square&color=blue" width="100" alt=""/>
-</div>
-
-<div id="welcome_section" align="center">
-<h1>
-  Hi, My name is Mohamed Sharaf!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt=""/>
-</h1>
 </div>
 
 
