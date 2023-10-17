@@ -33,7 +33,7 @@ Here are some ideas to get you started:
     Hi, My name is Mohamed Sharaf!
   </h1>
   <h3 style="display: inline-block; vertical-align: middle;">
-    Lead Software Engineer in Test
+    Lead Software  Engineer in Test
   </h3>
 </div>
 
@@ -44,6 +44,6 @@ Here are some ideas to get you started:
 <br/>
 
 <div id="about_section" align="left">
-
+### :woman_technologist: About Me :
 </div>
 
