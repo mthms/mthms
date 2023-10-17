@@ -32,6 +32,9 @@ Here are some ideas to get you started:
   <h1 style="display: inline-block; vertical-align: middle;">
     Hi, My name is Mohamed Sharaf!
   </h1>
+  <h3 style="display: inline-block; vertical-align: middle;">
+    Lead Software Engineer in Test
+  </h3>
 </div>
 
 <div id="header_animation_banner" align="center">
@@ -39,4 +42,8 @@ Here are some ideas to get you started:
 </div>
 
 <br/>
+
+<div id="about_section" align="left">
+
+</div>
 
