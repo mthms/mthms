@@ -44,6 +44,8 @@ Here are some ideas to get you started:
 <br/>
 
 ### :man_technologist: About Me :
-<div id="about_section" align="left">
-</div>
+- 🔭 I’m currently building and maintaining automation framework for various clients
+- 👨‍💻 Working in the Software Testing field for **8+ years** and led teams to having a stable CI/CD pipelines incorporating automated test scripts
+- 🛠 I’m looking to help building developer tools/libraries that facilitates the software testing automation
+- 💬 Ask me about Software testing, Automated Testing, Building robust automation frameworks and agile testing
 
