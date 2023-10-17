@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 <br/>
 
+### :man_technologist: About Me :
 <div id="about_section" align="left">
-### :woman_technologist: About Me :
 </div>
 
