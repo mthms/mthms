@@ -1,19 +1,3 @@
-<!--
-### Hi there 👋
-**mthms/mthms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -48,4 +32,10 @@ Here are some ideas to get you started:
 - 👨‍💻 Working in the Software Testing field for **8+ years** and led teams to having a stable CI/CD pipelines incorporating automated test scripts
 - 🛠 I’m looking to help building developer tools/libraries that facilitates the software testing automation
 - 💬 Ask me about Software testing, Automated Testing, Building robust automation frameworks and agile testing
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mthms&theme=dark&background=000000)](https://git.io/streak-stats)
 
