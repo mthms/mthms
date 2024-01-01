@@ -49,6 +49,6 @@
 
 <p align="center"> 
   <a href="#">
-    <img src="https://github-profile-trophy.vercel.app/?username=mthms&layout=compact&theme=transparent" alt="" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mthms&layout=compact&theme=algolia&no-bg=true" alt="" />
   </a>
 </p>
