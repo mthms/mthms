@@ -41,7 +41,7 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats-alpha-eosin-35.vercel.app/api/top-langs/?username=mthms&layout=donut&hide=html,css&size_weight=0.5&count_weight=0.5)](#)
+[![Top Langs](https://github-readme-stats-alpha-eosin-35.vercel.app/api/top-langs/?username=mthms&layout=donut&hide=html,css&size_weight=0.5&count_weight=0.5&theme=transparent)](#)
 
 ---
 
