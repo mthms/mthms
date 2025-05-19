@@ -35,13 +35,13 @@
 
 ---
 
-### :fire: My Stats :
+### :fire: My Stats:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mthms&theme=transparent&mode=weekly&hide_longest_streak=false)](#)
 
 <br />
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mthms&layout=compact&theme=transparent)](#) -->
+[![Top Langs](https://github-readme-stats-alpha-eosin-35.vercel.app/api/top-langs/?username=mthms&layout=donut&hide=html,css&size_weight=0.5&count_weight=0.5)](#)
 
 ---
 
